@@ -1,4 +1,4 @@
 # CloudStack Package Docker
-Docker images for building Apache CloudStack RPM and DEB images in.
+Docker images for building Apache CloudStack DEB packages.
 
 Used by the Jenkins slaves of the project to build packages for releases.
